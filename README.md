@@ -4,6 +4,7 @@ Discussion materials(articles, links and etc)
 - [Model/Entity](#model)
 - [Repository](#repository)
 - [Exceptions](#exceptions)
+- [Traits](#traits)
 
 ## Model
 - https://www.martinfowler.com/bliki/AnemicDomainModel.html
@@ -18,3 +19,9 @@ Discussion materials(articles, links and etc)
 - https://phauer.com/2015/checked-exceptions-are-evil/
 
 
+## Traits
+
+This is PHP-specific stuff. It is a little similar to multiple inheritance but has goal to reduce code duplication.  
+But....
+
+- https://eliasvo.wordpress.com/2015/06/07/php-traits-if-they-werent-evil-theyd-be-funny/
