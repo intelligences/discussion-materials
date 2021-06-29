@@ -5,6 +5,8 @@ Discussion materials(articles, links and etc)
 - [Repository](#repository)
 - [Exceptions](#exceptions)
 - [Traits](#traits)
+- [Database](#database)
+  - [Primary key](#primary-key)
 
 ## Model
 - https://www.martinfowler.com/bliki/AnemicDomainModel.html
@@ -25,3 +27,14 @@ This is PHP-specific stuff. It is a little similar to multiple inheritance but h
 But....
 
 - https://eliasvo.wordpress.com/2015/06/07/php-traits-if-they-werent-evil-theyd-be-funny/
+
+## Database
+
+### Primary key
+- [Primary Keys: IDs versus GUIDs](https://blog.codinghorror.com/primary-keys-ids-versus-guids/)
+- [The Cost of GUIDs as Primary Keys](https://www.informit.com/articles/printerfriendly/25862)
+
+### Indexes
+
+Generally there is one material that fits most of cases  
+https://use-the-index-luke.com/
